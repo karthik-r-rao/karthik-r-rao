@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the design of a reconfigurable array of neurons for ANN implementations
-- 🌱 I’m currently learning [Chisel](https://www.chisel-lang.org/)
 - 👯 I’m looking to collaborate on digital design projects involving FPGAs
 - :briefcase: Work experience
   - :arrow_forward: NVIDIA, ASIC Verification Intern
